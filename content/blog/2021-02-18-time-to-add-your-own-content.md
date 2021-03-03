@@ -1,6 +1,6 @@
 ---
-title: Time to add your own content
-description: Remove all of the .md-files in the /content folder and go at it!
+title: デモ記事作成しました
+description: NetlifyCMSの使い心地を知るためにテストしています
 ---
 
 ## Sit liquentibus sinu verbis et spatiarer laedar
